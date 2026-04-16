@@ -1,8 +1,0 @@
-Total students: 3
-Average score: 89.0
-Highest score: 95
-Lowest score: 82
-
-Top students:
-Aidos 95
-Olzhas 90
